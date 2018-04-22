@@ -26,4 +26,4 @@
 http://localhost:8080/h2
 
  
-![Image alt] https://github.com/anyonepaw/task2/blob/master/src/main/resources/task2.png
+![alt text] https://github.com/anyonepaw/task2/blob/master/src/main/resources/task2.png

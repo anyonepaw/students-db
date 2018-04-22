@@ -1,0 +1,13 @@
+<nav class=" navbar fixed-top navbar-dark bg-dark">
+  <a class="navbar-brand" href="/students">
+    <i class="fa fa-book" aria-hidden="true"></i>
+  </a>
+
+  <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+    <li class="nav-item active">
+      <a class="nav-link" href="/students">Students<span class="sr-only">(current)</span></a>
+    </li>
+  </ul>
+
+  <a class="btn btn-success my-2 my-sm-0" href="/students/create">Create</a>
+</nav>

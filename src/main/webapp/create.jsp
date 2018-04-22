@@ -18,32 +18,32 @@
     <div class="form-group row">
         <label for="Name" class="col-sm-2 col-form-label">Name </label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="Name" name="Name" value="type like: Владимир">
+            <input type="text" class="form-control" id="Name" name="Name" value="Иван">
         </div>
     </div>
     <div class="form-group row">
         <label for="Middle_name" class="col-sm-2 col-form-label">Middle name </label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="Middle_name" name="Middle_name" value="type like: Владимирович">
+            <input type="text" class="form-control" id="Middle_name" name="Middle_name" value="Иванович">
         </div>
     </div>
     <div class="form-group row">
         <label for="Surname" class="col-sm-2 col-form-label">Surname </label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="Surname" name="Surname" value="type like: Стрельников">
+            <input type="text" class="form-control" id="Surname" name="Surname" value="Иванов">
         </div>
     </div>
     <div class="form-group row">
         <label for="Date_of_birth" class="col-sm-2 col-form-label">Date of birth </label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="Date_of_birth" name="Date_of_birth" value="type like: DD/MM/YYYY">
+            <input type="text" class="form-control" id="Date_of_birth" name="Date_of_birth" value="DD/MM/YYYY">
         </div>
     </div>
 
     <div class="form-group row">
         <label for="Group" class="col-sm-2 col-form-label">Group </label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="Group" name="Group" value="type like: ИТ1801">
+            <input type="text" class="form-control" id="Group" name="Group" value="ИТ1801">
         </div>
     </div>
 

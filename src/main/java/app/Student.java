@@ -6,8 +6,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//уникальный
-//номер, имя, фамилия, отчество, дата рождения, группа
 
 @Entity
 @Table(name = "students")

@@ -7,6 +7,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
+import java.text.ParseException;
 
 @Controller
 public class StudentsController {
@@ -39,7 +40,7 @@ public class StudentsController {
     }
 
     @PostMapping("/students/create")
-    public String create(HttpServletRequest httpServletRequest) {
+    public String create(HttpServletRequest httpServletRequest) throws ParseException {
         String name = httpServletRequest.getParameter("Name");
         String middle_name = httpServletRequest.getParameter("Middle_name");
         String surname = httpServletRequest.getParameter("Surname");

@@ -36,7 +36,7 @@
     <div class="form-group row">
         <label for="Date_of_birth" class="col-sm-2 col-form-label">Date of birth </label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="Date_of_birth" name="Date_of_birth" value="DD/MM/YYYY">
+            <input type="text" class="form-control" id="Date_of_birth" name="Date_of_birth" value="DD.MM.YYYY">
         </div>
     </div>
 
